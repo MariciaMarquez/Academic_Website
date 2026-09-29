@@ -11,10 +11,10 @@ metadata-files:
   - _design/defaults.yml
 
 website:
-  title: "Your Name"
-  description: "A student website about research, work, and the world beyond class."
+  title: "Maricia Marquez"
+  description: "A student website about research, work, and the world beyond."
   # Later, when published, uncomment and replace the address below.
-  # site-url: "https://YOUR-USERNAME.github.io/YOUR-REPOSITORY/"
+  site-url: "https://mariciamarquez.github.io/Academic_Website/"
   navbar:
     left:
       - text: Home
