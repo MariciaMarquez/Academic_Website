@@ -20,7 +20,7 @@ I'm an undergraduate interested in law, public opinion, and what we can learn fr
 
 ::: {.hero-photo}
 <!-- Replace images/profile.jpg with your photo. Update the description in fig-alt too. -->
-![](/Users/marciemarquez/Downloads/Computational Social Science/Academic Website/images/MariciaMarquez_Headshot  copy.jpg){fig-alt="Headshot."}
+![](/Users/marciemarquez/Downloads/Computational Social Science/Academic Website/images/MariciaMarquez_Headshot  copy.jpg){fig-alt="Headshot"}
 :::
 ::::
 
