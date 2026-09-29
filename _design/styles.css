@@ -12,7 +12,7 @@
 
 body { background: var(--paper); color: var(--body-ink); }
 a { color: var(--accent); text-underline-offset: .2em; }
-a:hover { color: #173e32; }
+a:hover { color: #004080; }
 a:focus-visible, button:focus-visible {
   outline: 3px solid var(--accent);
   outline-offset: 5px;
@@ -54,7 +54,7 @@ h1.display-name { font-size: clamp(3.6rem, 6.2vw, 5.6rem); line-height: 1; margi
 .hero-copy p { max-width: 37rem; }
 .hero-copy p:last-child { display: flex; gap: 1.6rem; align-items: center; flex-wrap: wrap; margin-top: 1.65rem; }
 .primary-link { display: inline-block; background: var(--accent); color: #fff !important; padding: .7rem 1.2rem; border-radius: 4px; text-decoration: none; font-size: .88rem; }
-.primary-link:hover { background: #234c3e; }
+.primary-link:hover { background: #004080; }
 .quiet-link { font-size: .88rem; }
 .hero-photo { justify-self: end; width: 100%; max-width: 320px; }
 .hero-photo p, .hero-photo figure { margin: 0; }
