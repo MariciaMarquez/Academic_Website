@@ -7,19 +7,20 @@ subtitle: "A few observations from outside my usual routine."
 
 ![](images/studyabroadtravel.jpg){.travel-photo fig-alt="The Queen's College, Oxford"}
 
-## Quenn's College, Oxford
+## The Quenn's College, Oxford
 
 [Study Abroad]{.project-label}
 
 Through the Loyola Marymount University Study Abroad program, I spent a month studying at the Queen's College, a college of the University of Oxford.
 
-I'm interested in the small details that make a place feel different: how people move through it, where they gather, and what they stop to notice.
 
-## What I want to remember
+## What I learned
 
-- The details that a photograph doesn't capture.
-- A question about the place or the people who live there.
-- Something I would notice differently on a return visit.
+- Travel is most rewarding when you arrive with curiosity rather than expectations. The moments I remember most from Oxford were often the ones I never planned for.
+
+- Living and studying in another country taught me to pay closer attention to how history, culture, and daily life shape the way people think and communicate.
+
+- I learned that there is value in slowing down, observing, and asking questions. Understanding a place comes less from seeing famous landmarks and more from listening to the people who call it home.
 
 <!-- Add another place by copying the image and heading pattern above. -->
 
