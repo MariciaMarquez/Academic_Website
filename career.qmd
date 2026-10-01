@@ -7,7 +7,9 @@ subtitle: "The work I've done and the work I'd like to try."
 
 ## Where I'd like to go
 
-I'm exploring opportunities that combine research, clear communication, and work with communities. I'm especially interested in learning how evidence informs decisions outside the classroom.
+I'm exploring opportunities that combine research, public service, and work with communities. I'm especially interested in learning how evidence informs decisions outside the classroom.
+
+[My resume](2026_MariciaMarquez_Resume.pdf)
 
 ## Experience
 
@@ -35,7 +37,8 @@ I'm exploring opportunities that combine research, clear communication, and work
 
 I'm happy to talk about projects, internships, and opportunities to learn.
 
-[Email me](mailto:you@example.com)
+[Email me](mailto:mariciamarquez@gmail.com)
 
-<!-- OPTIONAL: add your real LinkedIn address here, or remove this comment. -->
+<!-- OPTIONAL: add your real LinkedIn address here, or remove this comment. --> www.linkedin.com/in/maricia-marquez-52366529a
 <!-- OPTIONAL CV: create a files/ folder, add resume.pdf, then use [My resume](files/resume.pdf). -->
+
