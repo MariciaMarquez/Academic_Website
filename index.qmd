@@ -42,6 +42,5 @@ I am interested in the forces that shape our world, from local communities to gl
 
 Research doesn't begin and end in the classroom. Whether through internships, public service, policy discussions, or everyday observations, I look for opportunities to better understand the communities and institutions that shape our world.
 
-[Read my latest notes](blog.qmd)
 :::
 ::::
