@@ -123,14 +123,14 @@
     "href": "research.html",
     "title": "Academic interests & research",
     "section": "",
-    "text": "I’m interested in how people participate in public life, how communities differ, and how data can help us ask better questions about both.\n\nPolitical participation: Who gets involved, and what makes participation easier?\nCities and communities: How do local environments shape everyday choices?\nData and communication: How can a chart make a complex pattern easier to understand?"
+    "text": "I’m interested in how people respond to political and social events, how public narratives shape those responses, and how data can help us better understand those patterns.\n\nPolitical participation: Who gets involved, and what makes participation easier?\nCities and communities: How do local environments shape everyday choices?\nData and communication: How can a chart make a complex pattern easier to understand?"
   },
   {
     "objectID": "research.html#what-im-curious-about",
     "href": "research.html#what-im-curious-about",
     "title": "Academic interests & research",
     "section": "",
-    "text": "I’m interested in how people participate in public life, how communities differ, and how data can help us ask better questions about both.\n\nPolitical participation: Who gets involved, and what makes participation easier?\nCities and communities: How do local environments shape everyday choices?\nData and communication: How can a chart make a complex pattern easier to understand?"
+    "text": "I’m interested in how people respond to political and social events, how public narratives shape those responses, and how data can help us better understand those patterns.\n\nPolitical participation: Who gets involved, and what makes participation easier?\nCities and communities: How do local environments shape everyday choices?\nData and communication: How can a chart make a complex pattern easier to understand?"
   },
   {
     "objectID": "research.html#a-project-im-developing",
@@ -173,5 +173,12 @@
     "title": "Travel & places",
     "section": "What I learned",
     "text": "What I learned\n\nTravel is most rewarding when you arrive with curiosity rather than expectations. The moments I remember most from Oxford were often the ones I never planned for.\nLiving and studying in another country taught me to pay closer attention to how history, culture, and daily life shape the way people think and communicate.\nI learned that there is value in slowing down, observing, and asking questions. Understanding a place comes less from seeing famous landmarks and more from listening to the people who call it home."
+  },
+  {
+    "objectID": "research.html#projects-im-developing",
+    "href": "research.html#projects-im-developing",
+    "title": "Academic interests & research",
+    "section": "Projects I’m developing",
+    "text": "Projects I’m developing\nWhen Words Become Risk: War Rhetoric and Safe-Haven Currency Markets\n\nComparing life expectancy across countries\nCOURSE PROJECT · IN PROGRESS\nQuestion. How does life expectancy vary with income across countries in a given year?\nApproach. Use R to explore the historical Gapminder data and make a clearly labeled visualization.\nWhat I’m learning. Choosing the year, scale, and unit of analysis changes what readers can see. An association in a plot is a starting point for questions, not evidence of a causal effect."
   }
 ]
