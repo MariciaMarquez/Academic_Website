@@ -5,7 +5,7 @@ subtitle: "A few observations from outside my usual routine."
 
 <!-- TRAVEL: replace the image, location, and short reflection with your own. -->
 
-![](images/travel.jpg){.travel-photo fig-alt="Water flowing over Niagara Falls, surrounded by green trees."}
+![](images/travel.jpg){.travel-photo fig-alt="The Queen's College, Oxford"}
 
 ## Quenn's College, Oxford
 
