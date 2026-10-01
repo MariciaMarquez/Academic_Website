@@ -25,7 +25,6 @@ I'm interested in how people participate in public life, how communities differ,
 
 **What I'm learning.** Choosing the year, scale, and unit of analysis changes what readers can see. An association in a plot is a starting point for questions, not evidence of a causal effect.
 
-[Read a reflection on this project](posts/learning-from-a-chart.qmd)
 
 ## What comes next
 

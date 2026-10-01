@@ -137,7 +137,7 @@
     "href": "research.html#a-project-im-developing",
     "title": "Academic interests & research",
     "section": "A project I’m developing",
-    "text": "A project I’m developing\n\nComparing life expectancy across countries\nCOURSE PROJECT · IN PROGRESS\nQuestion. How does life expectancy vary with income across countries in a given year?\nApproach. Use R to explore the historical Gapminder data and make a clearly labeled visualization.\nWhat I’m learning. Choosing the year, scale, and unit of analysis changes what readers can see. An association in a plot is a starting point for questions, not evidence of a causal effect.\nRead a reflection on this project"
+    "text": "A project I’m developing\n\nComparing life expectancy across countries\nCOURSE PROJECT · IN PROGRESS\nQuestion. How does life expectancy vary with income across countries in a given year?\nApproach. Use R to explore the historical Gapminder data and make a clearly labeled visualization.\nWhat I’m learning. Choosing the year, scale, and unit of analysis changes what readers can see. An association in a plot is a starting point for questions, not evidence of a causal effect."
   },
   {
     "objectID": "research.html#what-comes-next",
