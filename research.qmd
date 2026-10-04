@@ -15,11 +15,8 @@ I'm interested in how people respond to political and social events, how public 
 
 ## Projects I'm developing
 
-**When Words Become Risk: War Rhetoric and Safe-Haven Currency Markets**
 
-
-### Comparing life expectancy across countries
-
+### When Words Become Risk: War Rhetoric and Safe-Haven Currency Markets
 [COURSE PROJECT · IN PROGRESS]{.project-label}
 
 **Question.** How does life expectancy vary with income across countries in a given year?

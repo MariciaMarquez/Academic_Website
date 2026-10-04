@@ -179,6 +179,6 @@
     "href": "research.html#projects-im-developing",
     "title": "Academic interests & research",
     "section": "Projects I’m developing",
-    "text": "Projects I’m developing\nWhen Words Become Risk: War Rhetoric and Safe-Haven Currency Markets\n\nComparing life expectancy across countries\nCOURSE PROJECT · IN PROGRESS\nQuestion. How does life expectancy vary with income across countries in a given year?\nApproach. Use R to explore the historical Gapminder data and make a clearly labeled visualization.\nWhat I’m learning. Choosing the year, scale, and unit of analysis changes what readers can see. An association in a plot is a starting point for questions, not evidence of a causal effect."
+    "text": "Projects I’m developing\n\nWhen Words Become Risk: War Rhetoric and Safe-Haven Currency Markets\nCOURSE PROJECT · IN PROGRESS\nQuestion. How does life expectancy vary with income across countries in a given year?\nApproach. Use R to explore the historical Gapminder data and make a clearly labeled visualization.\nWhat I’m learning. Choosing the year, scale, and unit of analysis changes what readers can see. An association in a plot is a starting point for questions, not evidence of a causal effect."
   }
 ]
