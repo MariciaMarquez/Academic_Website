@@ -19,25 +19,29 @@ I'm interested in how people respond to political and social events, how public 
 ### When Words Become Risk: War Rhetoric and Safe-Haven Currency Markets
 [UNDERGRADUATE HONORS THESIS · IN PROGRESS]{.project-label}
 
-**Question.** How does life expectancy vary with income across countries in a given year?
+**Question** How does war threat rhetoric influence safe-haven currency markets?
 
-**Approach.** Use R to explore the historical Gapminder data and make a clearly labeled visualization.
+**Description** This project examines the relationship between geopolitical rhetoric and foreign exchange markets. Rhetoric data are merged with CHF, JPY, and USD exchange-rate data obtained from FRED and benchmarked against the Caldara and Iacoviello Geopolitical Risk (GPR) Index. Regression analysis is used to estimate the effects of geopolitical rhetoric on exchange-rate returns, while GARCH models are employed to assess its impact on exchange-rate volatility.
 
-**What I'm learning.** Choosing the year, scale, and unit of analysis changes what readers can see. An association in a plot is a starting point for questions, not evidence of a causal effect.
 
-## Projects I'm developing
-
+## Completed Projects
 
 ### The Angeleno Outlook: Ten Years of Change in How Angelenos View the LA Region and their Place in It
 [AMERICAN ASSOCIATION FOR PUBLIC OPINION RESEARCH (AAPOR) PANEL PRESENTATION· COMPLETED{.project-label}
 
-*Chhandosi Roy Ph.D., Alecco Walli, Maricia Marquez*
+*Chhandosi Roy Ph.D., Alecco Walli, Maricia Marquez (Center for the Study of Los Angeles)*
 
-**Question.** How does life expectancy vary with income across countries in a given year?
+**Description** Used twelve years of Angeleno Poll data to examine how institutional trust, economic perceptions, and community belonging shape regional pessimism in Los Angeles.
 
-**Approach.** Use R to explore the historical Gapminder data and make a clearly labeled visualization.
 
-**What I'm learning.** Choosing the year, scale, and unit of analysis changes what readers can see. An association in a plot is a starting point for questions, not evidence of a causal effect.
+**Approach** Applied logistic regression modeling and predicted probability analysis to evaluate drivers of public opinion trends across demographic groups.
 
+**Findings**
+- Not personal financial outlook but the abstract concepts of trust in city government and economic disparity show more promise in driving regional pessimism.
+- More longitudinal studies asking questions about opinions on institutions essential to a functional democracy.
+- Study messaging and information sources (abstractions are not created in vacuum).
+
+
+[Slide Deck](files/LMU StudyLA Slide Deck AAPOR 2026 -Final.pdf)
 
 <!-- OPTIONAL: add a project link with [Project title](https://your-link). -->

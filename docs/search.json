@@ -179,7 +179,7 @@
     "href": "research.html#projects-im-developing",
     "title": "Academic interests & research",
     "section": "Projects I’m developing",
-    "text": "Projects I’m developing\n\nWhen Words Become Risk: War Rhetoric and Safe-Haven Currency Markets\nUNDERGRADUATE HONORS THESIS · IN PROGRESS\nQuestion. How does life expectancy vary with income across countries in a given year?\nApproach. Use R to explore the historical Gapminder data and make a clearly labeled visualization.\nWhat I’m learning. Choosing the year, scale, and unit of analysis changes what readers can see. An association in a plot is a starting point for questions, not evidence of a causal effect."
+    "text": "Projects I’m developing\n\nWhen Words Become Risk: War Rhetoric and Safe-Haven Currency Markets\nUNDERGRADUATE HONORS THESIS · IN PROGRESS\nQuestion How does war threat rhetoric influence safe-haven currency markets?\nDescription This project examines the relationship between geopolitical rhetoric and foreign exchange markets. Rhetoric data are merged with CHF, JPY, and USD exchange-rate data obtained from FRED and benchmarked against the Caldara and Iacoviello Geopolitical Risk (GPR) Index. Regression analysis is used to estimate the effects of geopolitical rhetoric on exchange-rate returns, while GARCH models are employed to assess its impact on exchange-rate volatility."
   },
   {
     "objectID": "research.html#projects-im-developing-1",
@@ -187,5 +187,12 @@
     "title": "Academic interests & research",
     "section": "Projects I’m developing",
     "text": "Projects I’m developing\n\nThe Angeleno Outlook: Ten Years of Change in How Angelenos View the LA Region and their Place in It\n[AMERICAN ASSOCIATION FOR PUBLIC OPINION RESEARCH (AAPOR) PANEL PRESENTATION· COMPLETED{.project-label}\nChhandosi Roy Ph.D., Alecco Walli, Maricia Marquez\nQuestion. How does life expectancy vary with income across countries in a given year?\nApproach. Use R to explore the historical Gapminder data and make a clearly labeled visualization.\nWhat I’m learning. Choosing the year, scale, and unit of analysis changes what readers can see. An association in a plot is a starting point for questions, not evidence of a causal effect."
+  },
+  {
+    "objectID": "research.html#completed-projects",
+    "href": "research.html#completed-projects",
+    "title": "Academic interests & research",
+    "section": "Completed Projects",
+    "text": "Completed Projects\n\nThe Angeleno Outlook: Ten Years of Change in How Angelenos View the LA Region and their Place in It\n[AMERICAN ASSOCIATION FOR PUBLIC OPINION RESEARCH (AAPOR) PANEL PRESENTATION· COMPLETED{.project-label}\nChhandosi Roy Ph.D., Alecco Walli, Maricia Marquez (Center for the Study of Los Angeles)\nDescription Used twelve years of Angeleno Poll data to examine how institutional trust, economic perceptions, and community belonging shape regional pessimism in Los Angeles.\nApproach Applied logistic regression modeling and predicted probability analysis to evaluate drivers of public opinion trends across demographic groups.\nFindings - Not personal financial outlook but the abstract concepts of trust in city government and economic disparity show more promise in driving regional pessimism. - More longitudinal studies asking questions about opinions on institutions essential to a functional democracy. - Study messaging and information sources (abstractions are not created in vacuum).\nSlide Deck"
   }
 ]
