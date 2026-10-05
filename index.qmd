@@ -15,6 +15,17 @@ page-layout: full
 
 I'm an undergraduate interested in law, public opinion, and what we can learn from data. This is a place for my projects, the questions I'm working through, and a few notes from beyond the classroom.
 
+<br>
+
+### Loyola Marymount University
+
+B.A. in International Relations
+
+Minors: Applied Data Analysis, Economics, English
+
+Expected Graduation: May 2027
+<br>
+
 [Explore my research](research.qmd){.primary-link} [Say hello](mailto:mariciamarquez@gmail.com){.quiet-link}
 :::
 
