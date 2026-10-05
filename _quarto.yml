@@ -5,6 +5,8 @@ project:
   render:
     - "*.qmd"
     - "posts/*.qmd"
+  resources:
+    - "files/**"
 
 # The appearance lives here. Usually leave this line alone.
 metadata-files:
