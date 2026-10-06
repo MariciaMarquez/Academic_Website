@@ -67,14 +67,14 @@
     "href": "career.html",
     "title": "Profession & career",
     "section": "",
-    "text": "I’m exploring opportunities that combine research, public service, and work with communities. I’m especially interested in learning how evidence informs decisions outside the classroom.\nMy resume"
+    "text": "I’m exploring opportunities that combine research, public service, and working directly with communities. I’m especially interested in learning how evidence informs decisions outside the classroom.\nMy resume"
   },
   {
     "objectID": "career.html#where-id-like-to-go",
     "href": "career.html#where-id-like-to-go",
     "title": "Profession & career",
     "section": "",
-    "text": "I’m exploring opportunities that combine research, public service, and work with communities. I’m especially interested in learning how evidence informs decisions outside the classroom.\nMy resume"
+    "text": "I’m exploring opportunities that combine research, public service, and working directly with communities. I’m especially interested in learning how evidence informs decisions outside the classroom.\nMy resume"
   },
   {
     "objectID": "career.html#experience",
@@ -88,7 +88,7 @@
     "href": "career.html#skills-im-building",
     "title": "Profession & career",
     "section": "Skills I’m building",
-    "text": "Skills I’m building\nResearch: Designing survey-based research questions, conducting literature reviews, and communicating findings to academic and public audiences.\nData Analysis: Working with R and STATA for data cleaning, statistical modeling, data visualization, and reproducible workflows.\nQuantitative Methods: Applying logistic regression, predicted probability analysis, and econometric methods to examine public opinion and political behavior.\nCollaboration: Contributing to team-based research projects, documenting analyses, and presenting results to diverse audiences."
+    "text": "Skills I’m building\nResearch: Designing survey-based research questions, conducting literature reviews, and communicating findings to academic and public audiences.\nData Analysis: Working with R and STATA for data cleaning, statistical modeling, data visualization, and reproducible workflows.\nQuantitative Methods: Applying logistic regression, predicted probability analysis, and econometric methods to examine public opinion and political behavior.\nCollaboration: Contributing to team-based research projects, documenting analyses, and presenting results to diverse audiences.\n##Programming Expereince\nRStudio: Cleaning, managing, and analyzing quantitative data in R; conducting statistical analyses; creating data visualizations; and developing reproducible research workflows.\nStata: Cleaning and analyzing quantitative and survey data; conducting descriptive and inferential statistical analyses; and interpreting statistical results.\nQGIS: Managing and analyzing spatial data; performing attribute and spatial selections; and creating clear, publication-ready thematic maps.\nGitHub: Using Git-based version control to track changes, manage repositories, document projects, and maintain reproducible research and coding workflows.\nQuarto: Creating reproducible research reports that integrate R code, statistical results, data visualizations, and written analysis into HTML and other publication formats."
   },
   {
     "objectID": "career.html#lets-connect",
