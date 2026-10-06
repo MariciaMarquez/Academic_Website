@@ -48,7 +48,7 @@ I'm exploring opportunities that combine research, public service, and working d
 
 **Collaboration:** Contributing to team-based research projects, documenting analyses, and presenting results to diverse audiences.
 
-##Programming Expereince
+## Programming Expereince
 
 **RStudio:** Cleaning, managing, and analyzing quantitative data in R; conducting statistical analyses; creating data visualizations; and developing reproducible research workflows.
 

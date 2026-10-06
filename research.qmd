@@ -1,6 +1,9 @@
 ---
 title: "Academic interests & research"
 subtitle: "Questions, projects, and work in progress."
+format:
+  html:
+    toc: true
 ---
 
 <!-- RESEARCH: replace these examples with your interests and one course project. -->
