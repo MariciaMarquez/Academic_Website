@@ -58,8 +58,14 @@ I'm interested in how people respond to political and social events, how public 
 
 **Description:** Applied dictionary-based sentiment analysis (Bing Liu lexicon) and LDA topic modeling in R to 4,469 tweets from 2019.
 
-<iframe src="files/research_poster.html" width="100%" height="800px" style="border: 1px solid #ddd;" title="Research poster"></iframe>
-
+<iframe
+  src="files/research_poster.html"
+  width="100%"
+  height="1800"
+  style="border: none; overflow: hidden;"
+  scrolling="no"
+  title="Research poster">
+</iframe>
 
 # Publications
 ### "The Consequences of Progress: An Advanced Introduction to Colm Tóibín's 'Sleep'"
