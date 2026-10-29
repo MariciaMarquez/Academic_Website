@@ -49,8 +49,16 @@ I'm interested in how people respond to political and social events, how public 
 [AAPOR 2026 StudyLA Presentation](files/AAPOOR2026.pdf)
 
 <!-- OPTIONAL: add a project link with [Project title](https://your-link). -->
+<br>
 
+### How Was Trump's Proposed Border Wall Discussed in His 2019 Tweets?
+[POLS 4130 TEXT ANALYSIS PROJECT · DRAFT]{.project-label}
 
+**Question**: How was Trump's proposed border wall discussed in his 2019 tweets?
+
+**Description**: Applied dictionary-based sentiment analysis (Bing Liu lexicon) and LDA topic modeling in R to 4,469 tweets from 2019.
+
+[View the research poster (draft)](files/research_poster.html)
 
 # Publications
 ### "The Consequences of Progress: An Advanced Introduction to Colm Tóibín's 'Sleep'"
