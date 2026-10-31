@@ -7,7 +7,7 @@ subtitle: "A few observations from outside my usual routine."
 
 ![](images/studyabroadtravel.jpg){.travel-photo fig-alt="The Queen's College, Oxford"}
 
-## The Quenn's College, Oxford
+## The Queen's College, Oxford
 
 [Study Abroad]{.project-label}
 
