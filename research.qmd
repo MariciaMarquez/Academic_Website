@@ -52,7 +52,7 @@ I'm interested in how people respond to political and social events, how public 
 
 ### How Was Trump's Proposed Border Wall Discussed in His 2019 Tweets?
 
-[POLS 4130 TEXT ANALYSIS PROJECT · DRAFT]{.project-label}
+[POLS 4130 TEXT ANALYSIS PROJECT · FALL 2026]{.project-label}
 
 **Question:** How was Trump's proposed border wall discussed in his 2019 tweets?
 
@@ -60,11 +60,9 @@ I'm interested in how people respond to political and social events, how public 
 
 <iframe
   src="files/research_poster.html"
-  width="100%"
-  height="1800"
-  style="border: none; overflow: hidden;"
-  scrolling="no"
-  title="Research poster">
+  title="Trump Border Wall Research Poster"
+  style="width: 100%; height: 1400px; border: none; display: block;"
+  loading="lazy">
 </iframe>
 
 # Publications
