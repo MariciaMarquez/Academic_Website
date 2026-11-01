@@ -2,9 +2,9 @@
    Everything else can stay as it is while you write your site. */
 :root {
   --paper: #fcfaf6;
-  --ink: #004080;
+  --ink: #172b45;
   --body-ink: #424b46;
-  --accent: #004080;
+  --accent: #315b7d;
   --muted: #69716b;
   --rule: #dcded5;
   --serif: Georgia, "Times New Roman", serif;
@@ -62,6 +62,31 @@ h1.display-name { font-size: clamp(3.6rem, 6.2vw, 5.6rem); line-height: 1; margi
 .home-notes { border-top: 1px solid var(--rule); display: grid; grid-template-columns: 1fr 1fr; gap: 4rem; padding-top: 2.5rem; }
 .home-note h2 { font-size: 1.7rem; margin-top: .6rem; margin-bottom: 1rem; }
 .home-note p:last-child a { font-size: .9rem; }
+
+
+
+/* Social links on homepage */
+.social-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  margin-top: 1rem;
+  color: var(--accent);
+  font-size: .9rem;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.social-link:hover {
+  color: var(--ink);
+  text-decoration: underline;
+}
+
+.social-link svg {
+  width: 20px;
+  height: 20px;
+}
+
 
 /* Photos and the automatic blog list. */
 .travel-photo { width: 100%; max-height: 480px; object-fit: cover; border-radius: 6px; }

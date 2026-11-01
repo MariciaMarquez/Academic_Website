@@ -1,22 +1,22 @@
+
 ---
 title: "Home"
 body-classes: home-page
 page-layout: full
 format:
   html:
-    toc: true
+    toc: false
 ---
 
-<!-- HOME: replace the name, introduction, and email below. Keep the ::: layout lines. -->
 :::: {.home-hero}
 ::: {.hero-copy}
-[STUDENT / RESEARCHER]{.eyebrow}
+[RESEARCHER / PRE-LAW STUDENT]{.eyebrow}
 
 # Maricia Marquez {.display-name}
 
-[Aspiring researcher and pre-law student leveraging data to solve social problems.]{.hero-subtitle}
+[Public Opinion | Quantitative Research | Law & Policy]{.hero-subtitle}
 
-I'm an undergraduate interested in law, public opinion, and what we can learn from data. This is a place for my projects, the questions I'm working through, and a few notes from beyond the classroom.
+I'm an undergraduate researcher at Loyola Marymount University interested in the intersection of law, public opinion, and quantitative research. Through data-driven methods and interdisciplinary inquiry, I explore political and social questions, examine institutions, and investigate how public narratives shape our world.
 
 <br>
 
@@ -24,27 +24,77 @@ I'm an undergraduate interested in law, public opinion, and what we can learn fr
 
 B.A. in International Relations
 
-Minors: Applied Data Analysis, Economics, English
+Minors: Applied Data Analysis, Economics, and English
 
 Expected Graduation: May 2027
+
 <br>
 
-[Explore my research](research.qmd){.primary-link} [Say hello](mailto:mariciamarquez@gmail.com){.quiet-link}
+[Explore my research](research.qmd){.primary-link}
+[Email me](mailto:mariciamarquez@gmail.com){.quiet-link}
+
+<a href="www.linkedin.com/in/maricia-marquez-52366529a" target="_blank" rel="noopener noreferrer" class="social-link">
+  <svg viewBox="0 0 24 24" aria-hidden="true">
+    <path fill="currentColor" d="M20.45 20.45h-3.56v-5.57c0-1.33-.03-3.04-1.85-3.04-1.85 0-2.13 1.44-2.13 2.94v5.67H9.35V9h3.42v1.56h.05c.48-.9 1.64-1.85 3.37-1.85 3.6 0 4.26 2.37 4.26 5.46v6.28zM5.34 7.43a2.06 2.06 0 1 1 0-4.12 2.06 2.06 0 0 1 0 4.12zM7.12 20.45H3.56V9h3.56v11.45zM22.23 0H1.77C.79 0 0 .77 0 1.73v20.54C0 23.23.79 24 1.77 24h20.46c.98 0 1.77-.77 1.77-1.73V1.73C24 .77 23.21 0 22.23 0z"/>
+  </svg>
+  LinkedIn
+</a>
 :::
 
 ::: {.hero-photo}
-<!-- Replace images/profile.jpg with your photo. Update the description in fig-alt too. -->
-![](images/MariciaMarquez_Headshot_copy.jpg){fig-alt="Headshot"}
+![](images/MariciaMarquez_Headshot_copy.jpg){fig-alt="Portrait of Maricia Marquez"}
+:::
+::::
+
+:::: {.featured-research}
+[SELECTED WORK]{.eyebrow}
+
+## Research & academic highlights
+
+A selection of projects exploring public opinion, political communication, and international affairs.
+
+::: {.research-grid}
+
+::: {.research-card}
+[PUBLIC OPINION & GOVERNANCE]{.project-label}
+
+### Understanding the Angeleno Outlook
+
+Longitudinal research using Angeleno Poll data to examine institutional trust, regional pessimism, and community belonging in Los Angeles.
+
+[Explore research](research.qmd)
+:::
+
+::: {.research-card}
+[INTERNATIONAL RELATIONS & FINANCE]{.project-label}
+
+### When Words Become Risk
+
+An undergraduate honors thesis investigating whether geopolitical threat rhetoric influences safe-haven currency markets and exchange-rate volatility.
+
+[Explore research](research.qmd)
+:::
+
+::: {.research-card}
+[POLITICAL COMMUNICATION & TEXT ANALYSIS]{.project-label}
+
+### Analyzing Trump's 2019 Tweets
+
+A computational text analysis project applying sentiment analysis and topic modeling to examine political communication surrounding the proposed border wall.
+
+[View research poster](files/research_poster.html)
+:::
+
 :::
 ::::
 
 :::: {.home-notes}
 ::: {.home-note}
-[01 /Academic & Research-Focused]{.eyebrow}
+[01 / RESEARCH & METHODS]{.eyebrow}
 
 ## Questions worth asking
 
-I am interested in the forces that shape our world, from local communities to global events. By combining quantitative methods with social science research, I transform broad questions into rigorous, evidence-based projects.
+I'm interested in how political institutions, public narratives, and international events shape our world. By combining quantitative methods with social science research, I work to turn complex questions into rigorous, evidence-based projects.
 
 [Academic interests & research](research.qmd)
 :::
@@ -52,9 +102,20 @@ I am interested in the forces that shape our world, from local communities to gl
 ::: {.home-note}
 [02 / BEYOND THE CLASSROOM]{.eyebrow}
 
-## Learning through expereince
+## Learning through experience
 
-Research doesn't begin and end in the classroom. Whether through internships, public service, policy discussions, or everyday observations, I look for opportunities to better understand the communities and institutions that shape our world.
+My academic interests extend beyond the classroom. Through government internships, public opinion research, conference presentations, and student leadership, I seek opportunities to apply research to real-world challenges and better understand the communities and institutions around us.
 
+[Explore my experience](career.qmd)
 :::
+::::
+
+:::: {.home-contact}
+[GET IN TOUCH]{.eyebrow}
+
+## Let's connect
+
+I'm always interested in connecting with people working across research, public policy, law, and civic engagement.
+
+[Email](mailto:mariciamarquez@gmail.com) · [LinkedIn](www.linkedin.com/in/maricia-marquez-52366529a) · [Resume](files/resume.pdf)
 ::::

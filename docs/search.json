@@ -39,14 +39,14 @@
     "href": "index.html",
     "title": "Home",
     "section": "",
-    "text": "STUDENT / RESEARCHER\n\n\nAspiring researcher and pre-law student leveraging data to solve social problems.\nI’m an undergraduate interested in law, public opinion, and what we can learn from data. This is a place for my projects, the questions I’m working through, and a few notes from beyond the classroom.\n\n\n\nB.A. in International Relations\nMinors: Applied Data Analysis, Economics, English\nExpected Graduation: May 2027 \nExplore my research Say hello"
+    "text": "RESEARCHER / PRE-LAW STUDENT\n\n\nPublic Opinion | Quantitative Research | Law & Policy\nI’m an undergraduate researcher at Loyola Marymount University interested in the intersection of law, public opinion, and quantitative research. Through data-driven methods and interdisciplinary inquiry, I explore political and social questions, examine institutions, and investigate how public narratives shape our world.\n\n\n\nB.A. in International Relations\nMinors: Applied Data Analysis, Economics, and English\nExpected Graduation: May 2027\n\nExplore my research Email me\n    LinkedIn"
   },
   {
     "objectID": "index.html#questions-worth-asking",
     "href": "index.html#questions-worth-asking",
     "title": "Home",
     "section": "Questions worth asking",
-    "text": "Questions worth asking\nI am interested in the forces that shape our world, from local communities to global events. By combining quantitative methods with social science research, I transform broad questions into rigorous, evidence-based projects.\nAcademic interests & research"
+    "text": "Questions worth asking\nI’m interested in how political institutions, public narratives, and international events shape our world. By combining quantitative methods with social science research, I work to turn complex questions into rigorous, evidence-based projects.\nAcademic interests & research"
   },
   {
     "objectID": "index.html#learning-by-noticing",
@@ -243,5 +243,26 @@
     "title": "How was Trump’s proposed border wall discussed in his 2019 tweets?",
     "section": "Check the original texts",
     "text": "Check the original texts\nSentiment example — Tweet 112\n\n“The damage done to our Country from a badly broken Border - Drugs, Crime and so much that is bad - is far greater than a Shutdown…”\n\nTweet 112 received a net sentiment score of −5 because the dictionary identified five negative words: damage, badly, broken, crime, and bad. Yet Trump used this negative language to characterize border conditions and argue for addressing the situation.\nThis illustrates the difference between negative vocabulary and the overall political message of a tweet.\nTopic example — Topic 1 One high-weight Topic 1 tweet discussed South Korea’s increased payments to the United States for its defense, while another discussed Trump’s trade negotiations with China’s President Xi.\nThese examples support the interpretation of Topic 1 as Foreign Policy & National Interests.\n\nLimits\nSentiment: Dictionary-based analysis cannot reliably identify sarcasm, negation, context, or the target of a statement. As Tweet 112 illustrates, negative language can be used to support a political argument rather than express opposition to a policy. Dictionary coverage was also relatively low, meaning most words did not contribute to the scores.\nTopics: LDA identifies patterns of word co-occurrence rather than objectively defined subjects. Tweets can address multiple themes, and topic labels require researcher interpretation. Results also depend on preprocessing decisions and the selected number of topics. The differences in average topic proportions are descriptive and were not tested for statistical significance.\nThe topic model identified four recurring themes in Trump’s 2019 Twitter communication: international trade and relations, partisan conflict, campaign messaging and border security, and media criticism. Border security appeared alongside electoral and political messaging, suggesting that discussion of the border was embedded within broader political communication rather than isolated to immigration policy.\n\n\nAnswer to the question\nTrump’s wall-related tweets differed from his broader 2019 communication in both sentiment vocabulary and thematic emphasis. Wall-related tweets had a more negative average dictionary score, while topic modeling showed a greater emphasis on border security and economic promises.\nTogether, these findings suggest that Trump’s border-related messaging frequently framed the issue through negative descriptions of border conditions and arguments about security and economic interests. However, text analysis alone cannot establish Trump’s underlying intentions or how audiences interpreted his messages."
+  },
+  {
+    "objectID": "index.html#research-academic-highlights",
+    "href": "index.html#research-academic-highlights",
+    "title": "Home",
+    "section": "Research & academic highlights",
+    "text": "Research & academic highlights\nA selection of projects exploring public opinion, political communication, and international affairs.\n\n\nPUBLIC OPINION & GOVERNANCE\n\nUnderstanding the Angeleno Outlook\nLongitudinal research using Angeleno Poll data to examine institutional trust, regional pessimism, and community belonging in Los Angeles.\nExplore research\n\n\n\nINTERNATIONAL RELATIONS & FINANCE\n\nWhen Words Become Risk\nAn undergraduate honors thesis investigating whether geopolitical threat rhetoric influences safe-haven currency markets and exchange-rate volatility.\nExplore research\n\n\n\nPOLITICAL COMMUNICATION & TEXT ANALYSIS\n\nAnalyzing Trump’s 2019 Tweets\nA computational text analysis project applying sentiment analysis and topic modeling to examine political communication surrounding the proposed border wall.\nView research poster"
+  },
+  {
+    "objectID": "index.html#learning-through-experience",
+    "href": "index.html#learning-through-experience",
+    "title": "Home",
+    "section": "Learning through experience",
+    "text": "Learning through experience\nMy academic interests extend beyond the classroom. Through government internships, public opinion research, conference presentations, and student leadership, I seek opportunities to apply research to real-world challenges and better understand the communities and institutions around us.\nExplore my experience"
+  },
+  {
+    "objectID": "index.html#lets-connect",
+    "href": "index.html#lets-connect",
+    "title": "Home",
+    "section": "Let’s connect",
+    "text": "Let’s connect\nI’m always interested in connecting with people working across research, public policy, law, and civic engagement.\nEmail · LinkedIn · Resume"
   }
 ]
